@@ -1,0 +1,28 @@
+body{
+    background:radial-gradient(black,rgb(91, 91, 248));
+}
+.introduction{
+    padding: 20px;
+    color: #f5f0f0; 
+    
+}
+p,.exp{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.profile-image {
+    max-width: auto;
+    height: auto;
+    border-radius: 40px; 
+    border-color:aqua;
+    box-shadow: 0 10px 20px cyan  
+}
+.container{
+max-width: 1100px;
+margin: 0 auto;
+padding: 20px;
+background-color: #151414ac;
+border-radius: 50px;
+box-shadow: 0 20px 400px cyan;
+margin-top: 50px;
+}
